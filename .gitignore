@@ -1,0 +1,9 @@
+settings.py
+cities_russia.py
+cities_russia.txt
+*.log
+.vscode/
+.idea/
+env/
+.DS_Store
+__pycache__/
